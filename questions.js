@@ -1,7 +1,6 @@
 questions = [
     {
-        
-        "question": "The freer the markets, the freer the people.",
+     "question": "The freer the markets, the freer the people.",
         "effect": {
             "econ": -10,
             "dipl": 0,
