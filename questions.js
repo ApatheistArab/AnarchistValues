@@ -10,8 +10,7 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-        "effect": {
+        "question": "Privitazion": {
             "econ": -10,
             "dipl": 0,
             "govt": 0,
@@ -19,8 +18,7 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
-        "effect": {
+        "question": "   i suppport mutual  aids": {
             "econ": 10,
             "dipl": 0,
             "govt": 0,
