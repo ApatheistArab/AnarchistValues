@@ -10,7 +10,7 @@ questions = [
         }
     },
     {
-        "question": "Privitazion": {
+        "question": "Privitazion is benificial": {
             "econ": -10,
             "dipl": 0,
             "govt": 0,
